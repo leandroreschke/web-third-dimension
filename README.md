@@ -1,46 +1,40 @@
-# Getting Started with Create React App
+# Unlocking the Web’s Third Dimension
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Three.js Demo with React and React Three Fiber
 
-## Available Scripts
+Welcome to this demo by [Leandro Reschke](https://github.com/leandroreschke) of [Three.js](https://threejs.org/) integrated within a React application using [react-three-fiber](https://github.com/pmndrs/react-three-fiber). This repository showcases simple 3D scenes using a variety of three.js technologies working in harmony.
 
-In the project directory, you can run:
+## Features
 
-### `yarn start`
+- 🔵 **Three.js Integration**: Demonstrates the use of Three.js within a React application, highlighting the library's vast 3D capabilities.
+- 🪐 **React-Three-Fiber**: Shows how react-three-fiber serves as the bridge between React and Three.js, allowing developers to work with 3D components in a React-friendly way.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## What You'll Learn
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+By exploring this repository, you'll get a deeper understanding of:
 
-### `yarn test`
+- The basic structure of a React application implementing Three.js.
+- How to build and manipulate 3D objects using Three.js within a React environment.
+- Leveraging react-three-fiber to incorporate Three.js into React's declarative style.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## useful links
+- [Three.js docs](https://threejs.org/docs/) - Three.js docs. Super easy to follow, a lot of different demos as well.
+- [React Three Fiber docs](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) - React Three Fiber documentation.
+- [Performance Tips](https://docs.pmnd.rs/react-three-fiber/advanced/scaling-performance) - Great performance tips for Three.js and R3F.
+- [Transparency Tips](https://shaderfun.com/2020/09/20/why-transparency-is-hard/) - Amazing article about transparency and why sometimes it's better to avoid it.
+- [R3F-Drei](https://github.com/pmndrs/drei) - A library that abstracts the implementation of different shaders and tools for React Three Fiber.
+- [R3F-Perf](https://github.com/utsuboco/r3f-perf) - A library specifically to measure performance with a great set of tools
 
-### `yarn build`
+## Live Demo
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To test the application without building it locally, you can visit the live demo at [https://leandroreschke.github.io/web-third-dimension/](https://leandroreschke.github.io/web-third-dimension/).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Project Setup
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This project uses [Yarn](https://yarnpkg.com/) as its package manager. To get started with the demo, clone this repository and follow the setup instructions.
 
-### `yarn eject`
+⚠️ **Important**: Please avoid using `yarn upgrade`. This project has specific library versions that ensure compatibility and functionality. An unsupervised upgrade may lead to compatibility issues and unexpected behaviors.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Future Updates
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Keep an eye on this repository as more demos illustrating the capabilities of Three.js, React, and react-three-fiber will be added in the future.
