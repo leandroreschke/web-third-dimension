@@ -25,6 +25,10 @@ By exploring this repository, you'll get a deeper understanding of:
 - [R3F-Drei](https://github.com/pmndrs/drei) - A library that abstracts the implementation of different shaders and tools for React Three Fiber.
 - [R3F-Perf](https://github.com/utsuboco/r3f-perf) - A library specifically to measure performance with a great set of tools
 
+## Live Demo
+
+To test the application without building it locally, you can visit the live demo at [https://leandroreschke.github.io/web-third-dimension/](https://leandroreschke.github.io/web-third-dimension/).
+
 ## Project Setup
 
 This project uses [Yarn](https://yarnpkg.com/) as its package manager. To get started with the demo, clone this repository and follow the setup instructions.
