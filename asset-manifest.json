@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/web-third-dimension/static/css/main.557ccc27.css",
-    "main.js": "/web-third-dimension/static/js/main.aa0e098c.js",
+    "main.css": "/web-third-dimension/static/css/main.57f1c6ce.css",
+    "main.js": "/web-third-dimension/static/js/main.284a35bd.js",
     "static/media/rocket.glb": "/web-third-dimension/static/media/rocket.8f73163ab2cb045a3c93.glb",
     "static/media/brewing.glb": "/web-third-dimension/static/media/brewing.66eef7393ad7497c316e.glb",
     "static/media/card3D.glb": "/web-third-dimension/static/media/card3D.444e2db1c391ed9e9d6a.glb",
@@ -9,11 +9,11 @@
     "static/media/computer.glb": "/web-third-dimension/static/media/computer.75333e5287cd11227856.glb",
     "static/media/photography.glb": "/web-third-dimension/static/media/photography.70774b8d5ab5ec1573e6.glb",
     "index.html": "/web-third-dimension/index.html",
-    "main.557ccc27.css.map": "/web-third-dimension/static/css/main.557ccc27.css.map",
-    "main.aa0e098c.js.map": "/web-third-dimension/static/js/main.aa0e098c.js.map"
+    "main.57f1c6ce.css.map": "/web-third-dimension/static/css/main.57f1c6ce.css.map",
+    "main.284a35bd.js.map": "/web-third-dimension/static/js/main.284a35bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.557ccc27.css",
-    "static/js/main.aa0e098c.js"
+    "static/css/main.57f1c6ce.css",
+    "static/js/main.284a35bd.js"
   ]
 }
